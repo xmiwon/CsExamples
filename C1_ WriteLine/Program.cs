@@ -10,7 +10,7 @@ namespace C1__WriteLine
             var path = @"c:\users\Gori\Documents\doc.txt";
             //ignorera citattecken för json
             var json = "{\"firstName\": \"Gori\", \"lastName\":\"Mori\"}";
-            //fungerar men inte vid alla tillfällen
+            //fungerar men inte vid alla tillfällen.
             var json2 = "{'firstName': 'Gori', 'lastName':'Mori'}";
             
 
