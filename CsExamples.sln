@@ -3,15 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C1_ WriteLine", "C1_ WriteLine\C1_ WriteLine.csproj", "{328E4D5D-5C0E-4E13-8144-B3B964198B95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C1_ WriteLine", "C1_ WriteLine\C1_ WriteLine.csproj", "{328E4D5D-5C0E-4E13-8144-B3B964198B95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C2_ReadLine", "C2_ReadLine\C2_ReadLine.csproj", "{137A9DB4-013D-4A76-9F18-94778857FD0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C2_ReadLine", "C2_ReadLine\C2_ReadLine.csproj", "{137A9DB4-013D-4A76-9F18-94778857FD0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C3_WithClass", "C3_WithClass\C3_WithClass.csproj", "{56172B0E-15EC-4912-85C6-4071E6A17C2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C3_WithClass", "C3_WithClass\C3_WithClass.csproj", "{56172B0E-15EC-4912-85C6-4071E6A17C2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C4_WithMethods", "C4_WithMethods\C4_WithMethods.csproj", "{222F7DB0-2C66-4F55-8A3B-B7241354CCF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C4_WithMethods", "C4_WithMethods\C4_WithMethods.csproj", "{222F7DB0-2C66-4F55-8A3B-B7241354CCF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C5_WithAgeCalculation", "C5_WithAgeCalculation\C5_WithAgeCalculation.csproj", "{44BB0B6C-6C9B-44EB-8C2D-563973ECE3C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C5_WithAgeCalculation", "C5_WithAgeCalculation\C5_WithAgeCalculation.csproj", "{44BB0B6C-6C9B-44EB-8C2D-563973ECE3C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C6_GettersAndSetters", "C6_GettersAndSetters\C6_GettersAndSetters.csproj", "{A2DC195F-299C-47D0-90A6-B4C29D07AE45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C7_GettersAndSettersV2", "C7_GettersAndSettersV2\C7_GettersAndSettersV2.csproj", "{0B1D840B-1A22-4A12-AD60-3C9561979BA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C8_Arrays", "C8_Arrays\C8_Arrays.csproj", "{D7FFAF69-623C-4368-BBAC-278F366AB89C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +45,18 @@ Global
 		{44BB0B6C-6C9B-44EB-8C2D-563973ECE3C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44BB0B6C-6C9B-44EB-8C2D-563973ECE3C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44BB0B6C-6C9B-44EB-8C2D-563973ECE3C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2DC195F-299C-47D0-90A6-B4C29D07AE45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2DC195F-299C-47D0-90A6-B4C29D07AE45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2DC195F-299C-47D0-90A6-B4C29D07AE45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2DC195F-299C-47D0-90A6-B4C29D07AE45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B1D840B-1A22-4A12-AD60-3C9561979BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B1D840B-1A22-4A12-AD60-3C9561979BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B1D840B-1A22-4A12-AD60-3C9561979BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B1D840B-1A22-4A12-AD60-3C9561979BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7FFAF69-623C-4368-BBAC-278F366AB89C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7FFAF69-623C-4368-BBAC-278F366AB89C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7FFAF69-623C-4368-BBAC-278F366AB89C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7FFAF69-623C-4368-BBAC-278F366AB89C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
