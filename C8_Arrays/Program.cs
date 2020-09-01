@@ -47,7 +47,7 @@ namespace C8_Arrays
                 Console.Write($"{sibling} ");
 
             }
-           }
+          }
 
 
         }
