@@ -23,6 +23,20 @@ namespace WPF3_CustomControl
         public MainWindow()
         {
             InitializeComponent();
+
+            var contacts = new List<string>() {
+                "Hans",
+                "Tommy",
+                "Anki"
+            };
+
+            foreach(var contact in contacts)
+            {
+                contactList.Children.Add(new Controls.ContactControl() { ContactName = contact });
+            }
+
+            
+
         }
     }
 }
