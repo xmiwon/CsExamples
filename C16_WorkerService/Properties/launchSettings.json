@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "C16_WorkerService": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

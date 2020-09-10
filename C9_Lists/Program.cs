@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data.SqlTypes;
+using System.Security.Cryptography;
 using System.Security.Cryptography.X509Certificates;
 
 namespace C9_Lists
@@ -23,7 +24,6 @@ namespace C9_Lists
                 case "no":
                     _hasSiblings = false;
                     break;
-
                 default:
                     _hasSiblings = false;
                     break;
@@ -78,3 +78,5 @@ namespace C9_Lists
         }
     }
 }
+// öva på metoder, klasser, skriva get/set, array, listor
+// försök bygg en egen app
